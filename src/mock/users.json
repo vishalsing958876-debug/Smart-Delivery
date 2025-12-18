@@ -1,0 +1,38 @@
+[
+  {
+    "id": "USR-1",
+    "name": "Priya Nair",
+    "email": "priya@smartdeliver.io",
+    "phone": "+91 90000 11111",
+    "role": "customer"
+  },
+  {
+    "id": "USR-2",
+    "name": "Rahul Menon",
+    "email": "rahul@smartdeliver.io",
+    "phone": "+91 90000 22222",
+    "role": "customer"
+  },
+  {
+    "id": "USR-3",
+    "name": "Sneha Rao",
+    "email": "sneha@smartdeliver.io",
+    "phone": "+91 90000 33333",
+    "role": "customer"
+  },
+  {
+    "id": "USR-4",
+    "name": "Vikram Shah",
+    "email": "vikram@smartdeliver.io",
+    "phone": "+91 90000 44444",
+    "role": "customer"
+  },
+  {
+    "id": "ADM-1",
+    "name": "Admin Control",
+    "email": "admin@smartdeliver.io",
+    "phone": "+91 91111 11111",
+    "role": "admin"
+  }
+]
+

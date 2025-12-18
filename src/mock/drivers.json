@@ -1,0 +1,48 @@
+[
+  {
+    "id": "DRV-17",
+    "name": "Ankit Verma",
+    "vehicle": "Honda Activa",
+    "rating": 4.9,
+    "earnings": 42870,
+    "status": "Available",
+    "location": "MG Road"
+  },
+  {
+    "id": "DRV-18",
+    "name": "Rohit Sharma",
+    "vehicle": "TVS Jupiter",
+    "rating": 4.7,
+    "earnings": 39940,
+    "status": "On Delivery",
+    "location": "Indiranagar"
+  },
+  {
+    "id": "DRV-20",
+    "name": "Nikita Paul",
+    "vehicle": "Yamaha Ray ZR",
+    "rating": 4.8,
+    "earnings": 45210,
+    "status": "On Delivery",
+    "location": "JP Nagar"
+  },
+  {
+    "id": "DRV-21",
+    "name": "Salman Qureshi",
+    "vehicle": "Bajaj Chetak",
+    "rating": 4.6,
+    "earnings": 37410,
+    "status": "Picked",
+    "location": "Koramangala"
+  },
+  {
+    "id": "DRV-22",
+    "name": "Lakshmi Iyer",
+    "vehicle": "Hero Electric",
+    "rating": 4.5,
+    "earnings": 36100,
+    "status": "Available",
+    "location": "Bellandur"
+  }
+]
+

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ORD-1001",
+    "pickup": "Koramangala, Bengaluru",
+    "drop": "Whitefield, Bengaluru",
+    "packageType": "Documents",
+    "weight": 1.2,
+    "price": 199,
+    "status": "Picked",
+    "eta": "25 mins",
+    "driverId": "DRV-21",
+    "customerId": "USR-1",
+    "createdAt": "2025-11-24T08:30:00Z"
+  },
+  {
+    "id": "ORD-1002",
+    "pickup": "Indiranagar, Bengaluru",
+    "drop": "HSR Layout, Bengaluru",
+    "packageType": "Food Box",
+    "weight": 2.1,
+    "price": 159,
+    "status": "In Transit",
+    "eta": "15 mins",
+    "driverId": "DRV-18",
+    "customerId": "USR-2",
+    "createdAt": "2025-11-23T15:10:00Z"
+  },
+  {
+    "id": "ORD-1003",
+    "pickup": "MG Road, Bengaluru",
+    "drop": "Electronic City, Bengaluru",
+    "packageType": "Electronics",
+    "weight": 3.6,
+    "price": 289,
+    "status": "Delivered",
+    "eta": "Delivered",
+    "driverId": "DRV-17",
+    "customerId": "USR-1",
+    "createdAt": "2025-11-22T11:45:00Z"
+  },
+  {
+    "id": "ORD-1004",
+    "pickup": "JP Nagar, Bengaluru",
+    "drop": "BTM Layout, Bengaluru",
+    "packageType": "Medicines",
+    "weight": 0.8,
+    "price": 119,
+    "status": "In Transit",
+    "eta": "8 mins",
+    "driverId": "DRV-20",
+    "customerId": "USR-3",
+    "createdAt": "2025-11-24T09:10:00Z"
+  },
+  {
+    "id": "ORD-1005",
+    "pickup": "Bellandur, Bengaluru",
+    "drop": "Sarjapur Road, Bengaluru",
+    "packageType": "Groceries",
+    "weight": 4.5,
+    "price": 249,
+    "status": "Picked",
+    "eta": "35 mins",
+    "driverId": "DRV-22",
+    "customerId": "USR-4",
+    "createdAt": "2025-11-24T10:00:00Z"
+  }
+]
+

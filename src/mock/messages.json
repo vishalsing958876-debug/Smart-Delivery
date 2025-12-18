@@ -1,0 +1,27 @@
+[
+  {
+    "id": "MSG-1",
+    "sender": "customer",
+    "text": "Hi there! Has the pickup started?",
+    "timestamp": "2025-11-24T09:30:00Z"
+  },
+  {
+    "id": "MSG-2",
+    "sender": "driver",
+    "text": "Yes, picking up the package now.",
+    "timestamp": "2025-11-24T09:32:00Z"
+  },
+  {
+    "id": "MSG-3",
+    "sender": "customer",
+    "text": "Great, please handle it carefully.",
+    "timestamp": "2025-11-24T09:33:00Z"
+  },
+  {
+    "id": "MSG-4",
+    "sender": "driver",
+    "text": "Absolutely, will update once dropped.",
+    "timestamp": "2025-11-24T09:34:00Z"
+  }
+]
+
